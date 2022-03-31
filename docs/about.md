@@ -1,4 +1,5 @@
 # 关于
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9baadb58-6533-4711-b33f-c8324ba187c6/deploy-status)](https://app.netlify.com/sites/sakurark-home/deploys)   
 感谢你使用 Sakurark 服务！希望你没有被首页的「宣传语」吓到。   
 Sakurark 最开始只是为了方便自己搭建服务而购买的域名，现如今开设了对外服务的 Sakurark 系列服务。   
 目前服务仅上线了 Sakurark API 和其中一个接口。当我遇到好玩的接口后，可能会自行搭建出来并对外公开。   
