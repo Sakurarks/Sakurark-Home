@@ -11,5 +11,5 @@
 ```
 GET https://api.sakurark.com/random-img/index.php
 ```
-## 返回实例
+### 返回实例
 该接口不会返回任何内容，将会直接 HTTP 302 跳转至随机到的图片。
