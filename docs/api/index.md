@@ -11,6 +11,14 @@
 ```
 GET https://api.sakurark.com/random-img/index.php
 ```
+
+#### IPLC 版本
+此版本将会根据地区自动解析，并在国内区域解析到 IPLC IP 以提高加载速度。   
+图片内容与原版一致。
+```
+GET https://api.sakurark.com/random-img/iplc.php
+```
+
 ### 返回实例
 该接口不会返回任何内容，将会直接 HTTP 302 跳转至随机到的图片。
 
