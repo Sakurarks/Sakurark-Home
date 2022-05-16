@@ -1,6 +1,9 @@
 # API 文档
 在这里，你可以查看 Sakurark 对外开放的 API 接口文档。   
-如果有任何疑问，请发送邮件至 [dev@zihan.moe](mailto:dev@zihan.moe), 我们将在一个工作日内进行回复和相应处理。
+如果有任何疑问，请发送邮件至 [dev@zihan.moe](mailto:dev@zihan.moe), 我们将在一个工作日内进行回复和相应处理。   
+::: warning
+由于近期 API 服务器提供商遭遇攻击，我们正在将相关 API 迁移至 Google Cloud 以继续提供服务。
+:::
 
 ## 随机图片接口
 该接口将在 GET 请求后随机以 HTTP 302 的方式转向一张图片。   
